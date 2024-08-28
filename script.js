@@ -103,5 +103,3 @@ function mostraResultado() {
     caixaAlternativas.textContent = "";
     caixaAlternativas.textContent = "É isso aí! Muito obrigado por responder.";
 }
-
-mostraPergunta();
